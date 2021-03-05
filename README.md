@@ -20,21 +20,6 @@ Here are some ideas to get you started:
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-<table>
-<tr>
-    <td valign="center" width="50%">
-        <ul>
-            <li> ⛷️ I’m currently preparing for internship interview.
-            <li> 🔥 I’m currently learning LeetCode.
-        </ul>
-    </td>
-   <td valign="top" width="50%">
-
-        <!--START_SECTION:waka-->
-        💻 **What I am doing this week:** 
-
-        <!--END_SECTION:waka-->
     </td>
 </tr>
 </table>
