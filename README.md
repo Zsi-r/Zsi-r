@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently preparing for internship interview.
 - 🌱 I’m currently learning LeetCode.
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
