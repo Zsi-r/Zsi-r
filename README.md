@@ -11,8 +11,9 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-💻 **What I am doing this week:** 
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
