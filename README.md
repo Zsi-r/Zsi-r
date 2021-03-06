@@ -10,7 +10,7 @@
         </td>
        <td valign="top" width="50%">
 
-💻**What I'm Doing This Week~**
+<h3 align="center"> 💻 What I'm Doing This Week? </h3>
 
 <!--START_SECTION:waka-->
 ```text
