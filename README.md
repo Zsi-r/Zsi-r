@@ -4,7 +4,7 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li> ⛷️ I’m recently preparing for intership interview.</li>
+                <li> ⛷️ I’m recently preparing for the internship interview.</li>
                 <li> 🔥 I’m currently learning LeetCode.</li>
             </ul>
         </td>
