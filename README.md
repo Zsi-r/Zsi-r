@@ -5,7 +5,7 @@
         <td valign="center" width="50%">
             <ul>
                 <li> ⛷️ I’m recently preparing for the internship interview.</li>
-                <li> 🔥 I’m currently learning LeetCode.</li>
+                <li> 🔥 I’m currently learning LeetCode and MIT 6.828.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
