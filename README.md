@@ -4,8 +4,8 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li> ⛷️ I’m recently preparing for the internship interview.</li>
-                <li> 🔥 I’m currently learning LeetCode and MIT 6.828.</li>
+                <li> ⛷️ I’m recently learning MIT 6.828.</li>
+                <li> 🔥 I’m currently worked as an intern in ByteDance.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
