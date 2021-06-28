@@ -14,11 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TeX      4 hrs 9 mins    █████████████▓░░░░░░░░░░░   54.31 % 
-Other    1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.88 % 
-Python   1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-Text     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-BibTeX   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </td></tr>
