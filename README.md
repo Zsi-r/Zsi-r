@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++           30 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 </td></tr>
