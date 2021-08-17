@@ -6,6 +6,7 @@
             <ul>
                 <li> ⛷️ On August 16th, I made an crucial decision: to give up the postgraduate offer of Computer Science in my university SJTU.</li>
                 <li> 🔥 I’m currently preparing for fall recruitment.</li>
+                <li> 🙏 Hope that I could finally get some dream offers.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
