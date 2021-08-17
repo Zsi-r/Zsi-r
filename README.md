@@ -4,8 +4,8 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li> ⛷️ I’m recently learning MIT 6.828.</li>
-                <li> 🔥 I’m currently worked as an intern in ByteDance.</li>
+                <li> ⛷️ On August 16th, I made an crucial decision: to give up the postgraduate offer of Computer Science in my university SJTU.</li>
+                <li> 🔥 I’m currently preparing for fall recruitment.</li>
             </ul>
         </td>
        <td valign="top" width="50%">
