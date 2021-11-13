@@ -15,9 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     3 hrs 38 mins   ████████████████████████▒   97.80 % 
-Cuda       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python   3 hrs 38 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 </td></tr>
