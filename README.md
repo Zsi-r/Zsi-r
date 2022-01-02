@@ -15,11 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++          2 hrs           ██████████████████▓░░░░░░   74.30 % 
-Python       33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </td></tr>
