@@ -15,8 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TeX      48 mins         ██████████████████████▓░░   91.01 % 
-BibTeX   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </td></tr>
