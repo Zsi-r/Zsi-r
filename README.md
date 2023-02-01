@@ -4,8 +4,6 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li> ⛷️ On August 16th, I made a crucial decision: to give up the postgraduate offer of SJTU CS department.</li>
-                <li> 🔥 I’m currently preparing for fall recruitment.</li>
                 <li> 🙏 Hope that I could receive some dream offers in the end.</li>
             </ul>
         </td>
