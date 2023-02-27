@@ -4,7 +4,7 @@
     <tr>
         <td valign="center" width="50%">
             <ul>
-                <li> 🙏 Hope that I could receive some dream offers in the end.</li>
+                <li> Coding!</li>
             </ul>
         </td>
        <td valign="top" width="50%">
