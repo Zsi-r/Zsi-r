@@ -12,11 +12,7 @@
 <h3 align="center"> 💻 What I'm Doing This Week? </h3>
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+           
 </td></tr>
 </table>
