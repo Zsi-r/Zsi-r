@@ -1,9 +1,9 @@
 <h2 align="center"> Hi there, I'm Zsi'r 👋 </h2>
-<table>
-<tr>
-<td valign="top" width="100%">
+
 <h3 align="center"> 💻 What I'm Doing This Week? </h3>
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -28,6 +28,4 @@ Windows                  18 mins             ░░░░░░░░░░░�
 
  Last Updated on 03/04/2023 17:58:31 UTC
 <!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
+
