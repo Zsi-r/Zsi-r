@@ -6,17 +6,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   99.44 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2023 18:36:27 UTC
+ Last Updated on 05/10/2023 18:36:10 UTC
 <!--END_SECTION:waka-->
 
