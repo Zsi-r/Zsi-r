@@ -6,21 +6,21 @@
 
 ```text
 💬 Programming Languages: 
-C++                      16 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
-Bash                     5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Python                   4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Markdown                 4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Vue                      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+C++                      16 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.49 % 
+Bash                     5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Python                   4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Markdown                 4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Vue                      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  42 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    42 hrs 16 mins      █████████████████████████   99.09 % 
+Linux                    42 hrs 7 mins       █████████████████████████   99.09 % 
 Mac                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
- Last Updated on 01/05/2026 19:46:14 UTC
+ Last Updated on 02/05/2026 19:32:18 UTC
 <!--END_SECTION:waka-->
 
