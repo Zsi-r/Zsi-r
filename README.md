@@ -1,26 +1,26 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C734%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C745%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      8 hrs 51 mins       █████████████░░░░░░░░░░░░   51.00 % 
-Vue                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Protocol Buffer          1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+C++                      12 hrs 35 mins      ███████████████░░░░░░░░░░   59.07 % 
+Protocol Buffer          2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Vue                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Go                       1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 11 mins      █████████████████████████   98.94 % 
-Mac                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Linux                    21 hrs 8 mins       █████████████████████████   99.13 % 
+Mac                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
- Last Updated on 06/05/2026 20:08:04 UTC
+ Last Updated on 07/05/2026 19:57:52 UTC
 <!--END_SECTION:waka-->
 
