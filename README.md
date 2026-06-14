@@ -6,21 +6,20 @@
 
 ```text
 💬 Programming Languages: 
-C++                      41 hrs 25 mins      █████████████████░░░░░░░░   69.58 % 
-Protocol Buffer          3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Python                   2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JSON                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Go                       2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+C++                      33 hrs 57 mins      █████████████████░░░░░░░░   67.40 % 
+JSON                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Python                   2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Go                       2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Bash                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  50 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    59 hrs 28 mins      █████████████████████████   99.92 % 
-Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Linux                    50 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 19:59:33 UTC
+ Last Updated on 14/06/2026 20:04:01 UTC
 <!--END_SECTION:waka-->
 
