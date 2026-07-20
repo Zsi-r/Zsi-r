@@ -6,20 +6,20 @@
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   38.61 % 
-C++                      4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Vue                      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown                 1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Go                       13 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   37.90 % 
+C++                      4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Vue                      3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Bash                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Protocol Buffer          2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    36 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 19:38:42 UTC
+ Last Updated on 20/07/2026 20:05:00 UTC
 <!--END_SECTION:waka-->
 
