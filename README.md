@@ -8,18 +8,18 @@
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Vue                      3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-C++                      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Vue                      5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Go                       4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Java                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+C++                      2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Bash                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 56 mins      ████████████████████░░░░░   80.65 % 
-Mac                      3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Linux                    16 hrs 35 mins      █████████████████████░░░░   83.91 % 
+Mac                      3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -29,6 +29,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/09/2026 21:30:06 UTC
+ Last Updated on 28/09/2026 23:25:27 UTC
 <!--END_SECTION:waka-->
 
