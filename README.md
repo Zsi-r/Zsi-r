@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C401%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C403%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2042%20mins-blue?style=flat)
 
@@ -8,19 +8,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 55 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
-Vue                      3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-C++                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Go                       2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Markdown                 2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   12 hrs 47 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
+Vue                      3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+C++                      3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Go                       3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 26 mins      ████████████████████░░░░░   78.49 % 
-Mac                      7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-WSL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Linux                    32 hrs 16 mins      ██████████████████████░░░   89.86 % 
+Mac                      3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -30,6 +29,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2026 20:56:27 UTC
+ Last Updated on 19/10/2026 22:32:26 UTC
 <!--END_SECTION:waka-->
 
